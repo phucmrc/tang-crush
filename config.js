@@ -16,4 +16,3 @@ const CONFIG = {
     messDesc: 'Làm người yêu em nhaaa 😘😘.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://https://www.facebook.com/phuc.nguyentruong.9066
-}
